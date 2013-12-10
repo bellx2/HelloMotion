@@ -5,3 +5,4 @@ gem 'rake'
 
 gem 'bubble-wrap'
 gem 'ib'
+gem 'motion-cocoapods', '~> 1.4.0'

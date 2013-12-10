@@ -4,6 +4,7 @@ RubyMotionの基本プロジェクトです。
 
 - ib https://github.com/yury/ib
 - bubble-wrap http://bubblewrap.io/
+- motion-cocoapods https://github.com/HipByte/motion-cocoapods
 
 以下を参考にしています。
 

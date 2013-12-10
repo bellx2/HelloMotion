@@ -6,7 +6,8 @@ class HelloViewController < UIViewController
 
   def doAction(sender)
       # using bubble-wrap
-      App.alert "action : "+field1.text
+      #App.alert "action : "+field1.text
+      SVProgressHUD.showSuccessWithStatus("Success!")
   end
 
 end
