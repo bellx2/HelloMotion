@@ -16,6 +16,7 @@ Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'HelloMotion'
   app.info_plist['UIMainStoryboardFile'] = 'Storyboard'
+  # app.device_family = [:ipad]
 
   app.pods do
     pod 'SVProgressHUD'
