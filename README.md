@@ -6,6 +6,9 @@ RubyMotionの基本プロジェクトです。
 - rake ib:open
 をして必要ファイルを作成してください。
 
+設定情報について
+ config.ymlにAPIキー等の情報を書き込みRakefileで読み込み使います
+
 追加モジュール
 
 - ib https://github.com/yury/ib
