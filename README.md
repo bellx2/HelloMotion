@@ -1,5 +1,10 @@
 RubyMotionの基本プロジェクトです。
 
+使用する場合はまず
+- rake pod:install
+- rake ib:open
+をして必要ファイルを作成してください。
+
 追加モジュール
 
 - ib https://github.com/yury/ib
