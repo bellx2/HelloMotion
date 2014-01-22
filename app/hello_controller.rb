@@ -5,7 +5,6 @@ class HelloViewController < UIViewController
   outlet :field1, UITextField
 
   def doAction(sender)
-      # using bubble-wrap
       #App.alert "action : "+field1.text
       SVProgressHUD.showSuccessWithStatus("Success!")
   end
