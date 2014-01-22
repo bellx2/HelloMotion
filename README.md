@@ -1,5 +1,7 @@
 RubyMotionの基本プロジェクトです。
 
+[![Build Status](https://travis-ci.org/bellx2/HelloMotion.png?branch=master)](https://travis-ci.org/bellx2/HelloMotion)
+
 使用する場合はまず
 - bundle install
 - rake pod:install
