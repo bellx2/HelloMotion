@@ -4,4 +4,4 @@ before_install:
 before_script:
   - cp ./config.yml.sample ./config.yml
   - rake pod:install
-  
+
